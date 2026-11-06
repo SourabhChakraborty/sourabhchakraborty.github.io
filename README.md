@@ -8,7 +8,6 @@ hi
 
 [NYC Opportunity](https://www.nyc.gov/site/opportunity/index.page), including the [Benefits Engine](https://medium.com/nyc-opportunity/the-benefits-engine-a-case-study-of-personalized-benefits-recommendations-for-new-yorkers-0cd48b48976f)
 
-<br>
 
 **Outside of work:**
 * [Block Party](https://blockparty.studio)
